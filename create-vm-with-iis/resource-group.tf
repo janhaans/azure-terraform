@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "vm-with-iis-rg" {
+resource "azurerm_resource_group" "rg" {
     name     = "vm-with-iis-rg"
     location = var.location
 }

@@ -23,6 +23,12 @@ variable "location" {
   type = string
 }
 
+# Resource group
+variable "rg_name" {
+  description = "The name of the resource group"
+  type = string
+}
+
 # Virtual network
 variable vnet_name {
   description = "The name of the virtual network"
@@ -41,4 +47,24 @@ variable "subnet_name" {
 variable "subnet_address_prefix" {
   description = "The address prefix that is used the subnet"
   type = list(string)
+}
+
+# VM
+variable "vm_name" {
+  description = "The name of the virtual machine"
+  type = string
+}
+variable "allowed_ports" {
+  description = "The list of allowed ports"
+  type = list(number)
+  default = [80, 443, 3389]
+}
+variable "admin_username" {
+  description = "The admin username for the virtual machine"
+  type = string
+}
+variable "admin_password" {
+  description = "The admin password for the virtual machine"
+  type = string
+  sensitive = true
 }

@@ -45,3 +45,7 @@
 # Bastion Host
 
 ![bastion](bastion.png)
+
+# Entra ID editions
+
+![entra_id](entra_id.png)

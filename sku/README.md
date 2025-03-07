@@ -55,3 +55,5 @@
 ![sql](sql.png)
 
 ![sql-dtu](sql-dtu.png)
+
+![sql-pricing-overview](sql-pricing-overview.png)

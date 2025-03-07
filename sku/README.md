@@ -49,3 +49,9 @@
 # Entra ID editions
 
 ![entra_id](entra_id.png)
+
+# SQL
+
+![sql](sql.png)
+
+![sql-dtu](sql-dtu.png)

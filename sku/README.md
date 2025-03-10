@@ -61,3 +61,7 @@
 # Functions
 
 ![functions](functions.png)
+
+# Azure Container Registry
+
+![acr](acr.png)

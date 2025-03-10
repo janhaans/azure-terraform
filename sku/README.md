@@ -57,3 +57,7 @@
 ![sql-dtu](sql-dtu.png)
 
 ![sql-pricing-overview](sql-pricing-overview.png)
+
+# Functions
+
+![functions](functions.png)

@@ -58,6 +58,10 @@
 
 ![sql-pricing-overview](sql-pricing-overview.png)
 
+# MySQL
+
+![mysql](mysql.png)
+
 # Functions
 
 ![functions](functions.png)

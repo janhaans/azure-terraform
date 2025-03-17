@@ -62,6 +62,8 @@
 
 ![mysql](mysql.png)
 
+![db_encryption](db_encryption.png)
+
 # Functions
 
 ![functions](functions.png)
@@ -74,6 +76,12 @@
 
 ![frontdoor](frontdoor.png)
 
+![cdn_frontdoor](cdn_frontdoor.png)
+
 # Expressroute
 
 ![expressroute](expressroute.png)
+
+# Governance scope Policy, RBAC, tag, resource lock
+
+![hierarchy](hierarchy.png)

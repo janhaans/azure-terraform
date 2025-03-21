@@ -85,3 +85,11 @@
 # Governance scope Policy, RBAC, tag, resource lock
 
 ![hierarchy](hierarchy.png)
+
+# WAN
+
+![wan_sku](wan_sku.png)
+
+# Azure ServiceBus
+
+![servicebus_sku](servicebus_sku.png)
